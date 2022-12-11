@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T15:50:51Z" name="Default suite" finished-at="2022-08-22T15:50:51Z" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T15:50:51Z" name="Default test" finished-at="2022-08-22T15:50:51Z" duration-ms="46">
+      <class name="com.Mahakaal.databaseTestcases.CheckTableData">
+        <test-method is-config="true" signature="validate_dataBaseConectionSetUp()[pri:0, instance:com.Mahakaal.databaseTestcases.CheckTableData@258d79be]" started-at="2022-08-22T11:50:51Z" name="validate_dataBaseConectionSetUp" finished-at="2022-08-22T11:50:51Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_dataBaseConectionSetUp -->
+        <test-method signature="check_databasePresent()[pri:1, instance:com.Mahakaal.databaseTestcases.CheckTableData@258d79be]" started-at="2022-08-22T11:50:51Z" name="check_databasePresent" finished-at="2022-08-22T11:50:51Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_databasePresent -->
+        <test-method signature="check_tabeIsPresent()[pri:2, instance:com.Mahakaal.databaseTestcases.CheckTableData@258d79be]" started-at="2022-08-22T11:50:51Z" name="check_tabeIsPresent" finished-at="2022-08-22T11:50:51Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_tabeIsPresent -->
+        <test-method signature="validate_howManyColumn()[pri:3, instance:com.Mahakaal.databaseTestcases.CheckTableData@258d79be]" started-at="2022-08-22T11:50:51Z" name="validate_howManyColumn" finished-at="2022-08-22T11:50:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_howManyColumn -->
+        <test-method signature="validate_howManyRow()[pri:4, instance:com.Mahakaal.databaseTestcases.CheckTableData@258d79be]" started-at="2022-08-22T11:50:51Z" name="validate_howManyRow" finished-at="2022-08-22T11:50:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_howManyRow -->
+        <test-method signature="validate_firstNameValue()[pri:5, instance:com.Mahakaal.databaseTestcases.CheckTableData@258d79be]" started-at="2022-08-22T11:50:51Z" name="validate_firstNameValue" finished-at="2022-08-22T11:50:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_firstNameValue -->
+      </class> <!-- com.Mahakaal.databaseTestcases.CheckTableData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
